@@ -10,7 +10,7 @@ Abstract
 
 This repository contains the setup of my vagrant puppet test.
 
-.. note:: The Vagrantfile uses the new format as of vagrant 0.9, see
+.. note: The Vagrantfile uses the new format as of vagrant 0.9, see
    http://vagrantup.com/docs/changes/changes_08x_09x.html
 
 What?
